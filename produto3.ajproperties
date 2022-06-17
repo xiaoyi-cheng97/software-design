@@ -1,0 +1,7 @@
+src.includes = src/
+src.excludes = src/i18n/en_US.aj,\
+			   src/i18n/Messages_en_US.properties,\
+			   src/zirks/aspectos/Botao.aj,\
+			   src/zirks/aspectos/Movimento.aj,\
+			   src/facade/IO/Voz.aj
+
